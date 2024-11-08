@@ -2,6 +2,6 @@ I Projet tutoré
 
 I Question de recherches
 II Methodologies
-Strategies d"annalyses
-Resultats et interpretations
-Conclusion
+III Strategies d"annalyses
+IV Resultats et interpretations
+V Conclusion
