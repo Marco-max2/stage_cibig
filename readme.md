@@ -205,7 +205,7 @@ sbatch mapping.sh
 ## **SNP Variant Calling**
 ### **Generating VCF Files**
 ```bash
-nanop.sh
+nano snp.sh
 ```
 
 ```bash
